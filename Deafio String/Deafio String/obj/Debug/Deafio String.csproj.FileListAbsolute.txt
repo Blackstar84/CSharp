@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Deafio String\Deafio String\obj\Debug\Deafio String.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Deafio String\Deafio String\obj\Debug\Deafio String.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Deafio String\Deafio String\bin\Debug\Deafio String.exe.config
+C:\Users\calmada\source\repos\Deafio String\Deafio String\bin\Debug\Deafio String.exe
+C:\Users\calmada\source\repos\Deafio String\Deafio String\bin\Debug\Deafio String.pdb
+C:\Users\calmada\source\repos\Deafio String\Deafio String\obj\Debug\Deafio String.exe
+C:\Users\calmada\source\repos\Deafio String\Deafio String\obj\Debug\Deafio String.pdb

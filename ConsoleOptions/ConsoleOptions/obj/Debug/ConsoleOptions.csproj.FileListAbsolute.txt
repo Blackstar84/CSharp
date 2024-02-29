@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\ConsoleOptions\ConsoleOptions\bin\Debug\ConsoleOptions.exe.config
+C:\Users\calmada\source\repos\ConsoleOptions\ConsoleOptions\bin\Debug\ConsoleOptions.exe
+C:\Users\calmada\source\repos\ConsoleOptions\ConsoleOptions\bin\Debug\ConsoleOptions.pdb
+C:\Users\calmada\source\repos\ConsoleOptions\ConsoleOptions\obj\Debug\ConsoleOptions.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\ConsoleOptions\ConsoleOptions\obj\Debug\ConsoleOptions.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\ConsoleOptions\ConsoleOptions\obj\Debug\ConsoleOptions.exe
+C:\Users\calmada\source\repos\ConsoleOptions\ConsoleOptions\obj\Debug\ConsoleOptions.pdb

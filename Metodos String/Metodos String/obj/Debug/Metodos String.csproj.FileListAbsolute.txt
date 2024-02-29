@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Metodos String\Metodos String\bin\Debug\Metodos String.exe.config
+C:\Users\calmada\source\repos\Metodos String\Metodos String\bin\Debug\Metodos String.exe
+C:\Users\calmada\source\repos\Metodos String\Metodos String\bin\Debug\Metodos String.pdb
+C:\Users\calmada\source\repos\Metodos String\Metodos String\obj\Debug\Metodos String.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Metodos String\Metodos String\obj\Debug\Metodos String.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Metodos String\Metodos String\obj\Debug\Metodos String.exe
+C:\Users\calmada\source\repos\Metodos String\Metodos String\obj\Debug\Metodos String.pdb

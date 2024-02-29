@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Variable\Variable\bin\Debug\Variable.exe.config
+C:\Users\calmada\source\repos\Variable\Variable\bin\Debug\Variable.exe
+C:\Users\calmada\source\repos\Variable\Variable\bin\Debug\Variable.pdb
+C:\Users\calmada\source\repos\Variable\Variable\obj\Debug\Variable.exe
+C:\Users\calmada\source\repos\Variable\Variable\obj\Debug\Variable.pdb

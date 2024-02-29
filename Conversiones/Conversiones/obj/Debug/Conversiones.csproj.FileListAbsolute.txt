@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Conversiones\Conversiones\bin\Debug\Conversiones.exe.config
+C:\Users\calmada\source\repos\Conversiones\Conversiones\bin\Debug\Conversiones.exe
+C:\Users\calmada\source\repos\Conversiones\Conversiones\bin\Debug\Conversiones.pdb
+C:\Users\calmada\source\repos\Conversiones\Conversiones\obj\Debug\Conversiones.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Conversiones\Conversiones\obj\Debug\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Conversiones\Conversiones\obj\Debug\Conversiones.exe
+C:\Users\calmada\source\repos\Conversiones\Conversiones\obj\Debug\Conversiones.pdb

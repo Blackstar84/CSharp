@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Desafio Tipos De Datos\Desafio Tipos De Datos\bin\Debug\Desafio Tipos De Datos.exe.config
+C:\Users\calmada\source\repos\Desafio Tipos De Datos\Desafio Tipos De Datos\bin\Debug\Desafio Tipos De Datos.exe
+C:\Users\calmada\source\repos\Desafio Tipos De Datos\Desafio Tipos De Datos\bin\Debug\Desafio Tipos De Datos.pdb
+C:\Users\calmada\source\repos\Desafio Tipos De Datos\Desafio Tipos De Datos\obj\Debug\Desafio Tipos De Datos.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Desafio Tipos De Datos\Desafio Tipos De Datos\obj\Debug\Desafio Tipos De Datos.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Desafio Tipos De Datos\Desafio Tipos De Datos\obj\Debug\Desafio Tipos De Datos.exe
+C:\Users\calmada\source\repos\Desafio Tipos De Datos\Desafio Tipos De Datos\obj\Debug\Desafio Tipos De Datos.pdb

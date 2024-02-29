@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Desafio String 2\Desafio String 2\bin\Debug\Desafio String 2.exe.config
+C:\Users\calmada\source\repos\Desafio String 2\Desafio String 2\bin\Debug\Desafio String 2.exe
+C:\Users\calmada\source\repos\Desafio String 2\Desafio String 2\bin\Debug\Desafio String 2.pdb
+C:\Users\calmada\source\repos\Desafio String 2\Desafio String 2\obj\Debug\Desafio String 2.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Desafio String 2\Desafio String 2\obj\Debug\Desafio String 2.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Desafio String 2\Desafio String 2\obj\Debug\Desafio String 2.exe
+C:\Users\calmada\source\repos\Desafio String 2\Desafio String 2\obj\Debug\Desafio String 2.pdb
