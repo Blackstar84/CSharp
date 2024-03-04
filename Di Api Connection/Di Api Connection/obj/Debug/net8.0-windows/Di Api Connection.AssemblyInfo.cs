@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Di Api Connection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c827f5204d560bccddb2904a57a178cc47c028a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Di Api Connection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Di Api Connection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

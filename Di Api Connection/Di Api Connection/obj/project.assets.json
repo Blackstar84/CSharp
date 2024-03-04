@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\calmada\\source\\repos\\Di Api Connection\\Di Api Connection\\Di Api Connection.csproj",
+      "projectUniqueName": "C:\\Users\\calmada\\Documents\\Curso C\\repos\\Di Api Connection\\Di Api Connection\\Di Api Connection.csproj",
       "projectName": "Di Api Connection",
-      "projectPath": "C:\\Users\\calmada\\source\\repos\\Di Api Connection\\Di Api Connection\\Di Api Connection.csproj",
+      "projectPath": "C:\\Users\\calmada\\Documents\\Curso C\\repos\\Di Api Connection\\Di Api Connection\\Di Api Connection.csproj",
       "packagesPath": "C:\\Users\\calmada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calmada\\source\\repos\\Di Api Connection\\Di Api Connection\\obj\\",
+      "outputPath": "C:\\Users\\calmada\\Documents\\Curso C\\repos\\Di Api Connection\\Di Api Connection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
