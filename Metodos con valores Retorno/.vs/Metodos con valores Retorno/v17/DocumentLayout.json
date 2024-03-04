@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calmada\\source\\repos\\Metodos con valores Retorno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB3B428-19A0-47E9-A691-DFEC3A457C68}|Metodos con valores Retorno\\Metodos con valores Retorno.csproj|c:\\users\\calmada\\source\\repos\\metodos con valores retorno\\metodos con valores retorno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB3B428-19A0-47E9-A691-DFEC3A457C68}|Metodos con valores Retorno\\Metodos con valores Retorno.csproj|solutionrelative:metodos con valores retorno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\calmada\\source\\repos\\Metodos con valores Retorno\\Metodos con valores Retorno\\Program.cs",
+              "RelativeDocumentMoniker": "Metodos con valores Retorno\\Program.cs",
+              "ToolTip": "C:\\Users\\calmada\\source\\repos\\Metodos con valores Retorno\\Metodos con valores Retorno\\Program.cs",
+              "RelativeToolTip": "Metodos con valores Retorno\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:43:40.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

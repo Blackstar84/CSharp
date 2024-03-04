@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Metodos Void\Metodos Void\bin\Debug\Metodos Void.exe.config
+C:\Users\calmada\source\repos\Metodos Void\Metodos Void\bin\Debug\Metodos Void.exe
+C:\Users\calmada\source\repos\Metodos Void\Metodos Void\bin\Debug\Metodos Void.pdb
+C:\Users\calmada\source\repos\Metodos Void\Metodos Void\obj\Debug\Metodos Void.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Metodos Void\Metodos Void\obj\Debug\Metodos Void.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Metodos Void\Metodos Void\obj\Debug\Metodos Void.exe
+C:\Users\calmada\source\repos\Metodos Void\Metodos Void\obj\Debug\Metodos Void.pdb

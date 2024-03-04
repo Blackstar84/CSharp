@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Try Catch Finally\Try Catch Finally\bin\Debug\Try Catch Finally.exe.config
+C:\Users\calmada\source\repos\Try Catch Finally\Try Catch Finally\bin\Debug\Try Catch Finally.exe
+C:\Users\calmada\source\repos\Try Catch Finally\Try Catch Finally\bin\Debug\Try Catch Finally.pdb
+C:\Users\calmada\source\repos\Try Catch Finally\Try Catch Finally\obj\Debug\Try Catch Finally.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Try Catch Finally\Try Catch Finally\obj\Debug\Try Catch Finally.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Try Catch Finally\Try Catch Finally\obj\Debug\Try Catch Finally.exe
+C:\Users\calmada\source\repos\Try Catch Finally\Try Catch Finally\obj\Debug\Try Catch Finally.pdb

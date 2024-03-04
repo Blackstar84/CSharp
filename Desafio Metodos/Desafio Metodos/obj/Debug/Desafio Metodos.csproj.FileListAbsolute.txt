@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Desafio Metodos\Desafio Metodos\bin\Debug\Desafio Metodos.exe.config
+C:\Users\calmada\source\repos\Desafio Metodos\Desafio Metodos\bin\Debug\Desafio Metodos.exe
+C:\Users\calmada\source\repos\Desafio Metodos\Desafio Metodos\bin\Debug\Desafio Metodos.pdb
+C:\Users\calmada\source\repos\Desafio Metodos\Desafio Metodos\obj\Debug\Desafio Metodos.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Desafio Metodos\Desafio Metodos\obj\Debug\Desafio Metodos.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Desafio Metodos\Desafio Metodos\obj\Debug\Desafio Metodos.exe
+C:\Users\calmada\source\repos\Desafio Metodos\Desafio Metodos\obj\Debug\Desafio Metodos.pdb

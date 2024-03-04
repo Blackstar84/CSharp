@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Ingresos del Usuario\Ingresos del Usuario\bin\Debug\Ingresos del Usuario.exe.config
+C:\Users\calmada\source\repos\Ingresos del Usuario\Ingresos del Usuario\bin\Debug\Ingresos del Usuario.exe
+C:\Users\calmada\source\repos\Ingresos del Usuario\Ingresos del Usuario\bin\Debug\Ingresos del Usuario.pdb
+C:\Users\calmada\source\repos\Ingresos del Usuario\Ingresos del Usuario\obj\Debug\Ingresos del Usuario.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Ingresos del Usuario\Ingresos del Usuario\obj\Debug\Ingresos del Usuario.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Ingresos del Usuario\Ingresos del Usuario\obj\Debug\Ingresos del Usuario.exe
+C:\Users\calmada\source\repos\Ingresos del Usuario\Ingresos del Usuario\obj\Debug\Ingresos del Usuario.pdb
