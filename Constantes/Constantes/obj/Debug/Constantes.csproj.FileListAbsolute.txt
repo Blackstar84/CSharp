@@ -1,0 +1,7 @@
+C:\Users\calmada\source\repos\Constantes\Constantes\bin\Debug\Constantes.exe.config
+C:\Users\calmada\source\repos\Constantes\Constantes\bin\Debug\Constantes.exe
+C:\Users\calmada\source\repos\Constantes\Constantes\bin\Debug\Constantes.pdb
+C:\Users\calmada\source\repos\Constantes\Constantes\obj\Debug\Constantes.csproj.AssemblyReference.cache
+C:\Users\calmada\source\repos\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\calmada\source\repos\Constantes\Constantes\obj\Debug\Constantes.exe
+C:\Users\calmada\source\repos\Constantes\Constantes\obj\Debug\Constantes.pdb

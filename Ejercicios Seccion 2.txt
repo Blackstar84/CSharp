@@ -1,0 +1,254 @@
+Prácticas: Tipos de Datos Int
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            int x = 15;
+            int y = 30;
+            Console.WriteLine(x + y);
+        }
+    }
+}
+
+
+Prácticas: Tipos de Datos Double
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            double x = 15.5;
+            double y = 12.9;
+            Console.WriteLine(x + y);
+        }
+    }
+}
+
+
+Prácticas: Tipos de Datos String 1
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            string animal = "Perro";
+            Console.WriteLine("Mi animal favorito es el " + animal);
+        }
+    }
+}
+
+
+Prácticas: Tipos de Datos String 2
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            string mensaje = "Cadena;de;texto";
+            Console.WriteLine(mensaje.Replace(";"," "));
+        }
+    }
+}
+
+
+Prácticas: Console y sus métodos 1
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.Clear();
+        }
+    }
+}
+
+
+Prácticas: Console y sus métodos 2
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Clear();
+        }
+    }
+}
+
+
+Prácticas: Convenciones y Estándares 1
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static string MetodoEjemplo()
+        {
+            return "Respuesta";
+        }
+    }
+}
+
+
+Prácticas: Convenciones y Estándares 2
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static string MetodoEjemplo(string mensajeEjemplo)
+        {
+            return mensajeEjemplo;
+        }
+    }
+}
+
+
+Prácticas: Conversiones 1
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            float miFloat = 15.67F;
+            int miInt;
+            
+            miInt = (int) miFloat;
+            
+            Console.WriteLine(miInt);
+        }
+    }
+}
+
+
+Prácticas: Conversiones 2
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            double miDouble = 150.21;
+            string miString;
+            
+            miString = miDouble.ToString();
+            
+            Console.WriteLine(miString);
+        }
+    }
+}
+
+
+Prácticas: Parsing 1
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            string miString = "22";
+            int miInt;
+            
+            miInt = Int32.Parse(miString);
+            
+            Console.WriteLine(miInt);
+        }
+    }
+}
+
+
+Prácticas: Parsing 2
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            string miString = "Hola";
+            int verdad;
+            
+            Int32.TryParse(miString, out verdad);
+            
+            Console.WriteLine("¿Puedo convertir el string en número entero? " + (verdad == 0 ? "No" : "Si"));
+        }
+    }
+}
+
+
+Prácticas: Constantes 1
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            const int anioAmerica = 1942;
+            
+            Console.WriteLine("¿En que año fue el descubrimiento de América? {0}", anioAmerica);
+        }
+    }
+}
+
+
+Prácticas: Constantes 2
+
+using System;
+ 
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public static void Main()
+        {
+            const string miNombre = "Federico";
+            
+            Console.WriteLine("Mi nombre es {0}", miNombre);
+        }
+    }
+}
