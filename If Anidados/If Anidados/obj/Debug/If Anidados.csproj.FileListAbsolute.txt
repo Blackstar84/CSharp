@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\If Anidados\If Anidados\bin\Debug\If Anidados.exe.config
+C:\Users\calmada\Documents\Curso C\If Anidados\If Anidados\bin\Debug\If Anidados.exe
+C:\Users\calmada\Documents\Curso C\If Anidados\If Anidados\bin\Debug\If Anidados.pdb
+C:\Users\calmada\Documents\Curso C\If Anidados\If Anidados\obj\Debug\If Anidados.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\If Anidados\If Anidados\obj\Debug\If Anidados.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\If Anidados\If Anidados\obj\Debug\If Anidados.exe
+C:\Users\calmada\Documents\Curso C\If Anidados\If Anidados\obj\Debug\If Anidados.pdb
