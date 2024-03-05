@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Desafio Declaraciones If\Desafio Declaraciones If\bin\Debug\Desafio Declaraciones If.exe.config
+C:\Users\calmada\Documents\Curso C\Desafio Declaraciones If\Desafio Declaraciones If\bin\Debug\Desafio Declaraciones If.exe
+C:\Users\calmada\Documents\Curso C\Desafio Declaraciones If\Desafio Declaraciones If\bin\Debug\Desafio Declaraciones If.pdb
+C:\Users\calmada\Documents\Curso C\Desafio Declaraciones If\Desafio Declaraciones If\obj\Debug\Desafio Declaraciones If.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Desafio Declaraciones If\Desafio Declaraciones If\obj\Debug\Desafio Declaraciones If.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Desafio Declaraciones If\Desafio Declaraciones If\obj\Debug\Desafio Declaraciones If.exe
+C:\Users\calmada\Documents\Curso C\Desafio Declaraciones If\Desafio Declaraciones If\obj\Debug\Desafio Declaraciones If.pdb
