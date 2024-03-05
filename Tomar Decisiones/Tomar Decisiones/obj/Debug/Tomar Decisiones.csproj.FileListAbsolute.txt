@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Tomar Decisiones\Tomar Decisiones\bin\Debug\Tomar Decisiones.exe.config
+C:\Users\calmada\Documents\Curso C\Tomar Decisiones\Tomar Decisiones\bin\Debug\Tomar Decisiones.exe
+C:\Users\calmada\Documents\Curso C\Tomar Decisiones\Tomar Decisiones\bin\Debug\Tomar Decisiones.pdb
+C:\Users\calmada\Documents\Curso C\Tomar Decisiones\Tomar Decisiones\obj\Debug\Tomar Decisiones.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Tomar Decisiones\Tomar Decisiones\obj\Debug\Tomar Decisiones.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Tomar Decisiones\Tomar Decisiones\obj\Debug\Tomar Decisiones.exe
+C:\Users\calmada\Documents\Curso C\Tomar Decisiones\Tomar Decisiones\obj\Debug\Tomar Decisiones.pdb
