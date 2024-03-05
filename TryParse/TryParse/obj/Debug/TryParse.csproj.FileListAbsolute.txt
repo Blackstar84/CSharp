@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\calmada\Documents\Curso C\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\calmada\Documents\Curso C\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\calmada\Documents\Curso C\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\calmada\Documents\Curso C\TryParse\TryParse\obj\Debug\TryParse.pdb
