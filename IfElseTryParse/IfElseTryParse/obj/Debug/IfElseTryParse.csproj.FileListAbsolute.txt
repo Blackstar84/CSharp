@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\IfElseTryParse\IfElseTryParse\bin\Debug\IfElseTryParse.exe.config
+C:\Users\calmada\Documents\Curso C\IfElseTryParse\IfElseTryParse\bin\Debug\IfElseTryParse.exe
+C:\Users\calmada\Documents\Curso C\IfElseTryParse\IfElseTryParse\bin\Debug\IfElseTryParse.pdb
+C:\Users\calmada\Documents\Curso C\IfElseTryParse\IfElseTryParse\obj\Debug\IfElseTryParse.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\IfElseTryParse\IfElseTryParse\obj\Debug\IfElseTryParse.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\IfElseTryParse\IfElseTryParse\obj\Debug\IfElseTryParse.exe
+C:\Users\calmada\Documents\Curso C\IfElseTryParse\IfElseTryParse\obj\Debug\IfElseTryParse.pdb
