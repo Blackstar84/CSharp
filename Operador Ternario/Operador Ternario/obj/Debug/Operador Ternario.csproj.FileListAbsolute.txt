@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Operador Ternario\Operador Ternario\bin\Debug\Operador Ternario.exe.config
+C:\Users\calmada\Documents\Curso C\Operador Ternario\Operador Ternario\bin\Debug\Operador Ternario.exe
+C:\Users\calmada\Documents\Curso C\Operador Ternario\Operador Ternario\bin\Debug\Operador Ternario.pdb
+C:\Users\calmada\Documents\Curso C\Operador Ternario\Operador Ternario\obj\Debug\Operador Ternario.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Operador Ternario\Operador Ternario\obj\Debug\Operador Ternario.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Operador Ternario\Operador Ternario\obj\Debug\Operador Ternario.exe
+C:\Users\calmada\Documents\Curso C\Operador Ternario\Operador Ternario\obj\Debug\Operador Ternario.pdb
