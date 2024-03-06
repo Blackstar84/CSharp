@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Desafio If 2\Desafio If 2\bin\Debug\Desafio If 2.exe.config
+C:\Users\calmada\Documents\Curso C\Desafio If 2\Desafio If 2\bin\Debug\Desafio If 2.exe
+C:\Users\calmada\Documents\Curso C\Desafio If 2\Desafio If 2\bin\Debug\Desafio If 2.pdb
+C:\Users\calmada\Documents\Curso C\Desafio If 2\Desafio If 2\obj\Debug\Desafio If 2.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Desafio If 2\Desafio If 2\obj\Debug\Desafio If 2.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Desafio If 2\Desafio If 2\obj\Debug\Desafio If 2.exe
+C:\Users\calmada\Documents\Curso C\Desafio If 2\Desafio If 2\obj\Debug\Desafio If 2.pdb
