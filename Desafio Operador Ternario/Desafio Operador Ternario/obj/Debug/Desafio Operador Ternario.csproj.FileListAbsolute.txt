@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Desafio Operador Ternario\Desafio Operador Ternario\bin\Debug\Desafio Operador Ternario.exe.config
+C:\Users\calmada\Documents\Curso C\Desafio Operador Ternario\Desafio Operador Ternario\bin\Debug\Desafio Operador Ternario.exe
+C:\Users\calmada\Documents\Curso C\Desafio Operador Ternario\Desafio Operador Ternario\bin\Debug\Desafio Operador Ternario.pdb
+C:\Users\calmada\Documents\Curso C\Desafio Operador Ternario\Desafio Operador Ternario\obj\Debug\Desafio Operador Ternario.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Desafio Operador Ternario\Desafio Operador Ternario\obj\Debug\Desafio Operador Ternario.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Desafio Operador Ternario\Desafio Operador Ternario\obj\Debug\Desafio Operador Ternario.exe
+C:\Users\calmada\Documents\Curso C\Desafio Operador Ternario\Desafio Operador Ternario\obj\Debug\Desafio Operador Ternario.pdb
