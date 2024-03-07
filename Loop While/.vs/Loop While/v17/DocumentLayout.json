@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\Loop While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957B74-6B95-495E-B61C-A492CB63B9D1}|Loop While\\Loop While.csproj|c:\\users\\calmada\\documents\\curso c\\loop while\\loop while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957B74-6B95-495E-B61C-A492CB63B9D1}|Loop While\\Loop While.csproj|solutionrelative:loop while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Loop While\\Loop While\\Program.cs",
+              "RelativeDocumentMoniker": "Loop While\\Program.cs",
+              "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Loop While\\Loop While\\Program.cs",
+              "RelativeToolTip": "Loop While\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:51:27.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
