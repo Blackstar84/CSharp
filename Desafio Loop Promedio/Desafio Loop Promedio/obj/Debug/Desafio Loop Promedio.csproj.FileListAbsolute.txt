@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Desafio Loop Promedio\Desafio Loop Promedio\bin\Debug\Desafio Loop Promedio.exe.config
+C:\Users\calmada\Documents\Curso C\Desafio Loop Promedio\Desafio Loop Promedio\bin\Debug\Desafio Loop Promedio.exe
+C:\Users\calmada\Documents\Curso C\Desafio Loop Promedio\Desafio Loop Promedio\bin\Debug\Desafio Loop Promedio.pdb
+C:\Users\calmada\Documents\Curso C\Desafio Loop Promedio\Desafio Loop Promedio\obj\Debug\Desafio Loop Promedio.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Desafio Loop Promedio\Desafio Loop Promedio\obj\Debug\Desafio Loop Promedio.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Desafio Loop Promedio\Desafio Loop Promedio\obj\Debug\Desafio Loop Promedio.exe
+C:\Users\calmada\Documents\Curso C\Desafio Loop Promedio\Desafio Loop Promedio\obj\Debug\Desafio Loop Promedio.pdb
