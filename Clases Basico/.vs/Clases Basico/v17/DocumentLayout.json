@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|c:\\users\\calmada\\documents\\curso c\\clases basico\\clases basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|solutionrelative:clases basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|c:\\users\\calmada\\documents\\curso c\\clases basico\\clases basico\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|solutionrelative:clases basico\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\Clases Basico\\Humano.cs",
+              "RelativeDocumentMoniker": "Clases Basico\\Humano.cs",
+              "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\Clases Basico\\Humano.cs",
+              "RelativeToolTip": "Clases Basico\\Humano.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:48:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\Clases Basico\\Program.cs",
+              "RelativeDocumentMoniker": "Clases Basico\\Program.cs",
+              "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\Clases Basico\\Program.cs",
+              "RelativeToolTip": "Clases Basico\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:47:26.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

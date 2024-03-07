@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Clases Basico\Clases Basico\bin\Debug\Clases Basico.exe.config
+C:\Users\calmada\Documents\Curso C\Clases Basico\Clases Basico\bin\Debug\Clases Basico.exe
+C:\Users\calmada\Documents\Curso C\Clases Basico\Clases Basico\bin\Debug\Clases Basico.pdb
+C:\Users\calmada\Documents\Curso C\Clases Basico\Clases Basico\obj\Debug\Clases Basico.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Clases Basico\Clases Basico\obj\Debug\Clases Basico.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Clases Basico\Clases Basico\obj\Debug\Clases Basico.exe
+C:\Users\calmada\Documents\Curso C\Clases Basico\Clases Basico\obj\Debug\Clases Basico.pdb
