@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Loop Do While\Loop Do While\bin\Debug\Loop Do While.exe.config
+C:\Users\calmada\Documents\Curso C\Loop Do While\Loop Do While\bin\Debug\Loop Do While.exe
+C:\Users\calmada\Documents\Curso C\Loop Do While\Loop Do While\bin\Debug\Loop Do While.pdb
+C:\Users\calmada\Documents\Curso C\Loop Do While\Loop Do While\obj\Debug\Loop Do While.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Loop Do While\Loop Do While\obj\Debug\Loop Do While.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Loop Do While\Loop Do While\obj\Debug\Loop Do While.exe
+C:\Users\calmada\Documents\Curso C\Loop Do While\Loop Do While\obj\Debug\Loop Do While.pdb
