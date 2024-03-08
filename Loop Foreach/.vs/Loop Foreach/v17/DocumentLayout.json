@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\Loop Foreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D884829-D99A-45AD-8AE9-8C745FE874D1}|Loop Foreach\\Loop Foreach.csproj|c:\\users\\calmada\\documents\\curso c\\loop foreach\\loop foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D884829-D99A-45AD-8AE9-8C745FE874D1}|Loop Foreach\\Loop Foreach.csproj|solutionrelative:loop foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Loop Foreach\\Loop Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "Loop Foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Loop Foreach\\Loop Foreach\\Program.cs",
+              "RelativeToolTip": "Loop Foreach\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:57:06.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

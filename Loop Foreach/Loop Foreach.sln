@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop Foreach", "Loop Foreach\Loop Foreach.csproj", "{9D884829-D99A-45AD-8AE9-8C745FE874D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D884829-D99A-45AD-8AE9-8C745FE874D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D884829-D99A-45AD-8AE9-8C745FE874D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D884829-D99A-45AD-8AE9-8C745FE874D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D884829-D99A-45AD-8AE9-8C745FE874D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244A8A4B-4191-4909-84E6-4BFBF2CC94F2}
+	EndGlobalSection
+EndGlobal
