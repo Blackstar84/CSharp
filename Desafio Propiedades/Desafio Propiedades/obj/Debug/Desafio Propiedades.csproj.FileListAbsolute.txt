@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Desafio Propiedades\Desafio Propiedades\bin\Debug\Desafio Propiedades.exe.config
+C:\Users\calmada\Documents\Curso C\Desafio Propiedades\Desafio Propiedades\bin\Debug\Desafio Propiedades.exe
+C:\Users\calmada\Documents\Curso C\Desafio Propiedades\Desafio Propiedades\bin\Debug\Desafio Propiedades.pdb
+C:\Users\calmada\Documents\Curso C\Desafio Propiedades\Desafio Propiedades\obj\Debug\Desafio Propiedades.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Desafio Propiedades\Desafio Propiedades\obj\Debug\Desafio Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Desafio Propiedades\Desafio Propiedades\obj\Debug\Desafio Propiedades.exe
+C:\Users\calmada\Documents\Curso C\Desafio Propiedades\Desafio Propiedades\obj\Debug\Desafio Propiedades.pdb
