@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Multiples Constructores\Multiples Constructores\bin\Debug\Multiples Constructores.exe.config
+C:\Users\calmada\Documents\Curso C\Multiples Constructores\Multiples Constructores\bin\Debug\Multiples Constructores.exe
+C:\Users\calmada\Documents\Curso C\Multiples Constructores\Multiples Constructores\bin\Debug\Multiples Constructores.pdb
+C:\Users\calmada\Documents\Curso C\Multiples Constructores\Multiples Constructores\obj\Debug\Multiples Constructores.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Multiples Constructores\Multiples Constructores\obj\Debug\Multiples Constructores.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Multiples Constructores\Multiples Constructores\obj\Debug\Multiples Constructores.exe
+C:\Users\calmada\Documents\Curso C\Multiples Constructores\Multiples Constructores\obj\Debug\Multiples Constructores.pdb
