@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Miembros\Miembros\bin\Debug\Miembros.exe.config
+C:\Users\calmada\Documents\Curso C\Miembros\Miembros\bin\Debug\Miembros.exe
+C:\Users\calmada\Documents\Curso C\Miembros\Miembros\bin\Debug\Miembros.pdb
+C:\Users\calmada\Documents\Curso C\Miembros\Miembros\obj\Debug\Miembros.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Miembros\Miembros\obj\Debug\Miembros.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Miembros\Miembros\obj\Debug\Miembros.exe
+C:\Users\calmada\Documents\Curso C\Miembros\Miembros\obj\Debug\Miembros.pdb
