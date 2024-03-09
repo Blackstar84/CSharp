@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Loop Foreach\Loop Foreach\bin\Debug\Loop Foreach.exe.config
+C:\Users\calmada\Documents\Curso C\Loop Foreach\Loop Foreach\bin\Debug\Loop Foreach.exe
+C:\Users\calmada\Documents\Curso C\Loop Foreach\Loop Foreach\bin\Debug\Loop Foreach.pdb
+C:\Users\calmada\Documents\Curso C\Loop Foreach\Loop Foreach\obj\Debug\Loop Foreach.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Loop Foreach\Loop Foreach\obj\Debug\Loop Foreach.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Loop Foreach\Loop Foreach\obj\Debug\Loop Foreach.exe
+C:\Users\calmada\Documents\Curso C\Loop Foreach\Loop Foreach\obj\Debug\Loop Foreach.pdb
