@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Arrays Multi-Dimensional\Arrays Multi-Dimensional\bin\Debug\Arrays Multi-Dimensional.exe.config
+C:\Users\calmada\Documents\Curso C\Arrays Multi-Dimensional\Arrays Multi-Dimensional\bin\Debug\Arrays Multi-Dimensional.exe
+C:\Users\calmada\Documents\Curso C\Arrays Multi-Dimensional\Arrays Multi-Dimensional\bin\Debug\Arrays Multi-Dimensional.pdb
+C:\Users\calmada\Documents\Curso C\Arrays Multi-Dimensional\Arrays Multi-Dimensional\obj\Debug\Arrays Multi-Dimensional.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Arrays Multi-Dimensional\Arrays Multi-Dimensional\obj\Debug\Arrays Multi-Dimensional.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Arrays Multi-Dimensional\Arrays Multi-Dimensional\obj\Debug\Arrays Multi-Dimensional.exe
+C:\Users\calmada\Documents\Curso C\Arrays Multi-Dimensional\Arrays Multi-Dimensional\obj\Debug\Arrays Multi-Dimensional.pdb
