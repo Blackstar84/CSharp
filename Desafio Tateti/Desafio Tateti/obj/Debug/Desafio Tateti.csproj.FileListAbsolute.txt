@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Desafio Tateti\Desafio Tateti\bin\Debug\Desafio Tateti.exe.config
+C:\Users\calmada\Documents\Curso C\Desafio Tateti\Desafio Tateti\bin\Debug\Desafio Tateti.exe
+C:\Users\calmada\Documents\Curso C\Desafio Tateti\Desafio Tateti\bin\Debug\Desafio Tateti.pdb
+C:\Users\calmada\Documents\Curso C\Desafio Tateti\Desafio Tateti\obj\Debug\Desafio Tateti.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Desafio Tateti\Desafio Tateti\obj\Debug\Desafio Tateti.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Desafio Tateti\Desafio Tateti\obj\Debug\Desafio Tateti.exe
+C:\Users\calmada\Documents\Curso C\Desafio Tateti\Desafio Tateti\obj\Debug\Desafio Tateti.pdb
