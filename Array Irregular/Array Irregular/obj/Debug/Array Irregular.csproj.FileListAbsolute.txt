@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Array Irregular\Array Irregular\bin\Debug\Array Irregular.exe.config
+C:\Users\calmada\Documents\Curso C\Array Irregular\Array Irregular\bin\Debug\Array Irregular.exe
+C:\Users\calmada\Documents\Curso C\Array Irregular\Array Irregular\bin\Debug\Array Irregular.pdb
+C:\Users\calmada\Documents\Curso C\Array Irregular\Array Irregular\obj\Debug\Array Irregular.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Array Irregular\Array Irregular\obj\Debug\Array Irregular.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Array Irregular\Array Irregular\obj\Debug\Array Irregular.exe
+C:\Users\calmada\Documents\Curso C\Array Irregular\Array Irregular\obj\Debug\Array Irregular.pdb
