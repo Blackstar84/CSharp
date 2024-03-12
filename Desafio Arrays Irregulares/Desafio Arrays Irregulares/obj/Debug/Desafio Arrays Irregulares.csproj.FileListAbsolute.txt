@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Desafio Arrays Irregulares\Desafio Arrays Irregulares\bin\Debug\Desafio Arrays Irregulares.exe.config
+C:\Users\calmada\Documents\Curso C\Desafio Arrays Irregulares\Desafio Arrays Irregulares\bin\Debug\Desafio Arrays Irregulares.exe
+C:\Users\calmada\Documents\Curso C\Desafio Arrays Irregulares\Desafio Arrays Irregulares\bin\Debug\Desafio Arrays Irregulares.pdb
+C:\Users\calmada\Documents\Curso C\Desafio Arrays Irregulares\Desafio Arrays Irregulares\obj\Debug\Desafio Arrays Irregulares.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Desafio Arrays Irregulares\Desafio Arrays Irregulares\obj\Debug\Desafio Arrays Irregulares.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Desafio Arrays Irregulares\Desafio Arrays Irregulares\obj\Debug\Desafio Arrays Irregulares.exe
+C:\Users\calmada\Documents\Curso C\Desafio Arrays Irregulares\Desafio Arrays Irregulares\obj\Debug\Desafio Arrays Irregulares.pdb

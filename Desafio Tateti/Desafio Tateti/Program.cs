@@ -51,7 +51,7 @@ namespace Desafio_Tateti
 
                         Console.WriteLine("Presione cualquier tecla para reiniciar el juego");
                         Console.Read();
-                        // Se pone ingreso igual a 0 para que no quede el último ingreso del usuario en el tablero
+                        // Se pone ingreso = 0 para que el último valor cargado sea cero a la hora de crear el nuevo tablero
                         ingreso = 0;
                         Resetear();
 
@@ -64,7 +64,7 @@ namespace Desafio_Tateti
                         Console.WriteLine("\n¡Empate!");
                         Console.WriteLine("Presione cualquier tecla para reiniciar el juego");
                         Console.Read();
-                        // Se pone ingreso igual a 0 para que no quede el último ingreso del usuario en el tablero
+                        // Se pone ingreso = 0 para que el último valor cargado sea cero a la hora de crear el nuevo tablero
                         ingreso = 0;
                         Resetear();
                         break;
@@ -93,7 +93,6 @@ namespace Desafio_Tateti
                     {
                         Console.WriteLine("Por favor ingrese un número");
                     }
-                    
 
                     if ((ingreso == 1) && (tableroJuego[0, 0] == '1'))
                         ingresoCorrecto = true;
@@ -198,5 +197,6 @@ namespace Desafio_Tateti
             CreaTablero();
             turnos = 0;
         }
+
     }
 }
