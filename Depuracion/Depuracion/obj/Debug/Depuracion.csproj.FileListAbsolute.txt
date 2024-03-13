@@ -1,0 +1,14 @@
+C:\Users\Win10\source\repos\Depuracion\Depuracion\bin\Debug\Depuracion.exe.config
+C:\Users\Win10\source\repos\Depuracion\Depuracion\bin\Debug\Depuracion.exe
+C:\Users\Win10\source\repos\Depuracion\Depuracion\bin\Debug\Depuracion.pdb
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.exe
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.pdb
+C:\Users\calmada\Documents\Curso C\Depuracion\Depuracion\bin\Debug\Depuracion.exe.config
+C:\Users\calmada\Documents\Curso C\Depuracion\Depuracion\bin\Debug\Depuracion.exe
+C:\Users\calmada\Documents\Curso C\Depuracion\Depuracion\bin\Debug\Depuracion.pdb
+C:\Users\calmada\Documents\Curso C\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Depuracion\Depuracion\obj\Debug\Depuracion.exe
+C:\Users\calmada\Documents\Curso C\Depuracion\Depuracion\obj\Debug\Depuracion.pdb
