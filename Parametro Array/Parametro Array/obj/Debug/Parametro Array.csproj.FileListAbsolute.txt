@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\Parametro Array\Parametro Array\bin\Debug\Parametro Array.exe.config
+C:\Users\calmada\Documents\Curso C\Parametro Array\Parametro Array\bin\Debug\Parametro Array.exe
+C:\Users\calmada\Documents\Curso C\Parametro Array\Parametro Array\bin\Debug\Parametro Array.pdb
+C:\Users\calmada\Documents\Curso C\Parametro Array\Parametro Array\obj\Debug\Parametro Array.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\Parametro Array\Parametro Array\obj\Debug\Parametro Array.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\Parametro Array\Parametro Array\obj\Debug\Parametro Array.exe
+C:\Users\calmada\Documents\Curso C\Parametro Array\Parametro Array\obj\Debug\Parametro Array.pdb

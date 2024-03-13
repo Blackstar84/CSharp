@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\Parametro Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27CF781-11B2-4C51-9BB4-2858E3189892}|Parametro Array\\Parametro Array.csproj|c:\\users\\calmada\\documents\\curso c\\parametro array\\parametro array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27CF781-11B2-4C51-9BB4-2858E3189892}|Parametro Array\\Parametro Array.csproj|solutionrelative:parametro array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Parametro Array\\Parametro Array\\Program.cs",
+              "RelativeDocumentMoniker": "Parametro Array\\Program.cs",
+              "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Parametro Array\\Parametro Array\\Program.cs",
+              "RelativeToolTip": "Parametro Array\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwCIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:41:58.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
