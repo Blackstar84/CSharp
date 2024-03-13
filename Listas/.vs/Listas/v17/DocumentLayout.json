@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD6135F-9145-4C9F-B35F-A0CE1F037D73}|Listas\\Listas.csproj|c:\\users\\calmada\\documents\\curso c\\listas\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD6135F-9145-4C9F-B35F-A0CE1F037D73}|Listas\\Listas.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Listas\\Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Listas\\Program.cs",
+              "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Listas\\Listas\\Program.cs",
+              "RelativeToolTip": "Listas\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAnwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:56:52.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
