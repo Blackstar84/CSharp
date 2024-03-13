@@ -15,6 +15,9 @@ namespace Depuracion
             // variable que contiene los amigos que irán a la fiesta
             var amigosFiesta = ObtenerAmigosFiesta(amigos, 3);
 
+            foreach (var nombre in amigos)
+                Console.WriteLine(nombre);
+
             // loop para mostrar en pantalla los nombres de los amigos que irán a la fiesta
             foreach (var nombre in amigosFiesta)
                 Console.WriteLine(nombre);
@@ -25,18 +28,26 @@ namespace Depuracion
         // Método para cargar la lista de amigos que irán a la fiesta
         public static List<string> ObtenerAmigosFiesta(List<string> lista, int cuenta)
         {
+            // Esta es una lista aparte no modificará la lista original
+            var muleto = new List<string>(lista);
             // variable que contendrá la lista de amigos
             var amigosFiesta = new List<string>();
 
             // Loop para cargar la lista hasta el límite de personas
             while(amigosFiesta.Count < cuenta)
             {
-                var amigoActual = ObtenerAmigoFiesta(lista);
+                var amigoActual = ObtenerAmigoFiesta(muleto);
                 amigosFiesta.Add(amigoActual);
-                lista.Remove(amigoActual);
+                muleto.Remove(amigoActual);
             }
             return amigosFiesta;
         }
+
+        /// <summary>
+        ///  Esta es la lógica para ver quién es un amigoFiesta
+        /// </summary>
+        /// <param name="lista"></param>
+        /// <returns></returns>
 
         // Método para elegir cada amigo que asistirá
         public static string ObtenerAmigoFiesta(List<string> lista)
@@ -46,7 +57,7 @@ namespace Depuracion
             // Loop para revisar la lista y detectar al que tiene el nombre más corto
             for(var i = 0; i<lista.Count; i++)
             {
-                if(lista[i].Length > nombreMasCorto.Length)
+                if(lista[i].Length < nombreMasCorto.Length)
                 {
                     nombreMasCorto = lista[i];
                 }
