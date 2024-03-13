@@ -3,14 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\Desafio Arrays Irregulares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\calmada\\Documents\\Curso C\\Array Irregular\\Array Irregular\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\calmada\\Documents\\Curso C\\Desafio Tateti\\Desafio Tateti\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C40B3E-5F9B-4099-9F38-12A38A1B28C9}|Desafio Arrays Irregulares\\Desafio Arrays Irregulares.csproj|C:\\Users\\calmada\\Documents\\Curso C\\Desafio Arrays Irregulares\\desafio arrays irregulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C40B3E-5F9B-4099-9F38-12A38A1B28C9}|Desafio Arrays Irregulares\\Desafio Arrays Irregulares.csproj|c:\\users\\calmada\\documents\\curso c\\desafio arrays irregulares\\desafio arrays irregulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C40B3E-5F9B-4099-9F38-12A38A1B28C9}|Desafio Arrays Irregulares\\Desafio Arrays Irregulares.csproj|solutionrelative:desafio arrays irregulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\calmada\\Documents\\Curso C\\Array Irregular\\Array Irregular\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,44 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Array Irregular\\Array Irregular\\Program.cs",
               "RelativeDocumentMoniker": "..\\Array Irregular\\Array Irregular\\Program.cs",
               "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Array Irregular\\Array Irregular\\Program.cs",
               "RelativeToolTip": "..\\Array Irregular\\Array Irregular\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T12:06:05.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T19:55:21.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Desafio Tateti\\Desafio Tateti\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Desafio Tateti\\Desafio Tateti\\Program.cs",
-              "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Desafio Tateti\\Desafio Tateti\\Program.cs",
-              "RelativeToolTip": "..\\Desafio Tateti\\Desafio Tateti\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T11:08:08.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\calmada\\Documents\\Curso C\\Desafio Arrays Irregulares\\Desafio Arrays Irregulares\\Program.cs",
               "RelativeDocumentMoniker": "Desafio Arrays Irregulares\\Program.cs",
               "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Desafio Arrays Irregulares\\Desafio Arrays Irregulares\\Program.cs",
               "RelativeToolTip": "Desafio Arrays Irregulares\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T11:04:57.146Z"
+              "WhenOpened": "2024-03-12T11:04:57.146Z",
+              "EditorCaption": ""
             }
           ]
         }

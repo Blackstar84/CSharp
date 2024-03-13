@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Array_Irregular
 {
@@ -27,7 +23,7 @@ namespace Array_Irregular
                 23, 100, 15
             };
 
-            irregular[2] = new int[] 
+            irregular[2] = new int[]
             {
                 5, 900
             };
@@ -43,14 +39,14 @@ namespace Array_Irregular
             };
 
             Console.WriteLine("El valor en el medio del primer array es {0}", irregular2[0][2]);
-            
+
 
 
             for (int i = 0; i < irregular2.Length; i++)
             {
                 Console.WriteLine("Los valores del array {0} son: ", i);
 
-                for(int j = 0; j < irregular2[i].Length; j++)
+                for (int j = 0; j < irregular2[i].Length; j++)
                 {
                     Console.WriteLine("{0}", irregular2[i][j]);
                 }
