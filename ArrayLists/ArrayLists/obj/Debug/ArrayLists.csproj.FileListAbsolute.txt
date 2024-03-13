@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe.config
+C:\Users\calmada\Documents\Curso C\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe
+C:\Users\calmada\Documents\Curso C\ArrayLists\ArrayLists\bin\Debug\ArrayLists.pdb
+C:\Users\calmada\Documents\Curso C\ArrayLists\ArrayLists\obj\Debug\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\ArrayLists\ArrayLists\obj\Debug\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\ArrayLists\ArrayLists\obj\Debug\ArrayLists.exe
+C:\Users\calmada\Documents\Curso C\ArrayLists\ArrayLists\obj\Debug\ArrayLists.pdb
