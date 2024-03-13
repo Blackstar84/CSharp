@@ -1,0 +1,7 @@
+C:\Users\calmada\Documents\Curso C\ArrayListVsList\ArrayListVsList\bin\Debug\ArrayListVsList.exe.config
+C:\Users\calmada\Documents\Curso C\ArrayListVsList\ArrayListVsList\bin\Debug\ArrayListVsList.exe
+C:\Users\calmada\Documents\Curso C\ArrayListVsList\ArrayListVsList\bin\Debug\ArrayListVsList.pdb
+C:\Users\calmada\Documents\Curso C\ArrayListVsList\ArrayListVsList\obj\Debug\ArrayListVsList.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\ArrayListVsList\ArrayListVsList\obj\Debug\ArrayListVsList.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\ArrayListVsList\ArrayListVsList\obj\Debug\ArrayListVsList.exe
+C:\Users\calmada\Documents\Curso C\ArrayListVsList\ArrayListVsList\obj\Debug\ArrayListVsList.pdb
