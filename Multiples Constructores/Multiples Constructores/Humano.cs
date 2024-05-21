@@ -65,7 +65,7 @@ namespace Multiples_Constructores
         {
             //Console.WriteLine("Hola, soy {0} {1} tengo {2} año{3} de edad. Mi color de ojos es {4}", primerNombre, apellido, edad, edad != 0 ? "" : "s", colorOjos);
             //Console.WriteLine("Hola, soy {0} {1}{2}. Mi color de ojos es {3}", primerNombre, apellido, edad != 0 ? $" tengo {edad} años de edad" : "", colorOjos);
-            if (edad != 0 && primerNombre != null && apellido != null && colorOjos != null)
+            if (edad != 0 && primerNombre != null && apellido != null && colorOjos != null && edad != 0 && edad != null)
                 Console.WriteLine("Hola, soy {0} {1} y tengo {2} años de edad. Mi color de ojos es {3}"
                     , primerNombre, apellido, edad, colorOjos);
             else if (primerNombre != null && apellido != null && colorOjos != null)

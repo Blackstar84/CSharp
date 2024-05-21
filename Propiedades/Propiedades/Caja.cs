@@ -12,6 +12,7 @@ namespace Propiedades
 
         private int largo;
         private int alto;
+        // Aquí comentamos como ejemplo para que se sepa que se pueden utilizar las propiedades como variables
         //private int ancho;
         private int volumen;
 
@@ -22,7 +23,7 @@ namespace Propiedades
             this.alto = alto;
             this.Ancho = ancho;
         }
-
+        
 
         // Una manera rápida de generar setters y getters en lugar de usar la forma larga, escribimos prop y damos tab 2 veces
         // Y luego reemplazamos el nombre
@@ -74,6 +75,8 @@ namespace Propiedades
         //}
 
         // Método corto
+
+        // Las propiedades se escriben con mayúsculas y las variables en minúsculas
         public int Largo
         {
             get => largo;
@@ -86,7 +89,10 @@ namespace Propiedades
         public void MuestraInfo()
         {
             Console.WriteLine("El largo es {0}. La altura es {1}. El ancho es {2}. Por lo tanto el volumen es {3}",
-                Largo, Alto, Ancho, volumen = Ancho*Largo*Alto);
+                Largo, Alto, Ancho, Volumen);
+            /*
+            Console.WriteLine("El largo es {0}. La altura es {1}. El ancho es {2}. Por lo tanto el volumen es {3}",
+                Largo, Alto, Ancho, volumen = Ancho * Largo * Alto); */
         }
 
 

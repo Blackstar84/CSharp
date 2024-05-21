@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe.config
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.pdb
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.exe
+C:\Users\usuario\source\repos\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.pdb
+C:\Users\calmada\Documents\Curso C\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe.config
+C:\Users\calmada\Documents\Curso C\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe
+C:\Users\calmada\Documents\Curso C\DeclaracionIfMejorada\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.pdb
+C:\Users\calmada\Documents\Curso C\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.csproj.AssemblyReference.cache
+C:\Users\calmada\Documents\Curso C\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.exe
+C:\Users\calmada\Documents\Curso C\DeclaracionIfMejorada\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.pdb

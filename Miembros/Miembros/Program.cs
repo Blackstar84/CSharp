@@ -14,7 +14,7 @@ namespace Miembros
             nuevoMiembro.Amigo(true);
 
 
-            Console.Read();
+            //Console.Read();
         }
     }
 }

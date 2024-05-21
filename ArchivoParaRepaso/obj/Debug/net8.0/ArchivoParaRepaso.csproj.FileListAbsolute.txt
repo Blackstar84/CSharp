@@ -1,0 +1,15 @@
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\bin\Debug\net8.0\ArchivoParaRepaso.exe
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\bin\Debug\net8.0\ArchivoParaRepaso.deps.json
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\bin\Debug\net8.0\ArchivoParaRepaso.runtimeconfig.json
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\bin\Debug\net8.0\ArchivoParaRepaso.dll
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\bin\Debug\net8.0\ArchivoParaRepaso.pdb
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.AssemblyInfoInputs.cache
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.AssemblyInfo.cs
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.csproj.CoreCompileInputs.cache
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.sourcelink.json
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.dll
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\refint\ArchivoParaRepaso.dll
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.pdb
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ArchivoParaRepaso.genruntimeconfig.cache
+C:\Users\calmada\Documents\Curso C\ArchivoParaRepaso\obj\Debug\net8.0\ref\ArchivoParaRepaso.dll

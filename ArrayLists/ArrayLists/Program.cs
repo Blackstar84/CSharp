@@ -40,19 +40,25 @@ namespace ArrayLists
 
             // Contar elementos del ArrayList
 
-            Console.WriteLine(miArrayList.Count);
+            Console.WriteLine("La cantidad de elementos del array es: {0}",miArrayList.Count);
 
             double suma = 0;
 
             foreach(object obj in miArrayList)
             {
                 if(obj is int)
-                {
+                {   
+                    Console.WriteLine(obj);  
                     suma += Convert.ToDouble(obj);
-                }else if(obj is double) 
+                    Console.WriteLine(suma);
+                }
+                else if(obj is double) 
                 {
+                    Console.WriteLine(obj);
                     suma += (double)obj;
-                }else if(obj is string) 
+                    Console.WriteLine(suma);
+                }
+                else if(obj is string) 
                 {
                     Console.WriteLine(obj);
                 }
@@ -60,7 +66,10 @@ namespace ArrayLists
 
             Console.WriteLine("La suma es {0}", suma);
 
-
+            for (int i = 0; i < length; i++)
+            {
+                
+            }
 
 
             Console.Read();

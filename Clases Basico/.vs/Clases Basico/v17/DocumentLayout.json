@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|c:\\users\\calmada\\documents\\curso c\\clases basico\\clases basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|solutionrelative:clases basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\Clases Basico\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clases Basico\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|c:\\users\\calmada\\documents\\curso c\\clases basico\\clases basico\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8998CEB-A016-4ED7-A7C1-5F4813E1E3CC}|Clases Basico\\Clases Basico.csproj|solutionrelative:clases basico\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\clases basico\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clases basico\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Clases Basico\\Humano.cs",
               "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\Clases Basico\\Humano.cs",
               "RelativeToolTip": "Clases Basico\\Humano.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T19:48:13.914Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Clases Basico\\Program.cs",
               "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\Clases Basico\\Clases Basico\\Program.cs",
               "RelativeToolTip": "Clases Basico\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCcAAAAkAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T19:47:26.804Z",
               "EditorCaption": ""

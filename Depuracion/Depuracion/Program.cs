@@ -12,8 +12,10 @@ namespace Depuracion
         {
             // variable que almacena la lista completa de amigos
             var amigos = new List<string> { "María", "Ana", "Martina", "Juan", "Leonardo", "Carlos", "Marianela"};
+            //var amigos = new List<string>();
             // variable que contiene los amigos que irán a la fiesta
-            var amigosFiesta = ObtenerAmigosFiesta(amigos, 3);
+            var amigosFiesta = ObtenerAmigosFiesta(amigos, 13);
+            //var amigosFiesta = ObtenerAmigosFiesta(null, 3);
 
             foreach (var nombre in amigos)
                 Console.WriteLine(nombre);
@@ -28,6 +30,11 @@ namespace Depuracion
         // Método para cargar la lista de amigos que irán a la fiesta
         public static List<string> ObtenerAmigosFiesta(List<string> lista, int cuenta)
         {
+            if (lista == null)
+                throw new ArgumentNullException("Lista", "La lista está vacía");
+            if (cuenta > lista.Count || cuenta <= 0)
+                throw new ArgumentOutOfRangeException("Cuenta", "Cuenta no puede ser más grande que los elementos de la lista o menor a 0");
+
             // Esta es una lista aparte no modificará la lista original
             var muleto = new List<string>(lista);
             // variable que contendrá la lista de amigos
@@ -52,7 +59,7 @@ namespace Depuracion
         // Método para elegir cada amigo que asistirá
         public static string ObtenerAmigoFiesta(List<string> lista)
         {
-            // Variable que contendrá el emigo con el nombre más corto
+            // Variable que contendrá el amigo con el nombre más corto
             string nombreMasCorto = lista[0];
             // Loop para revisar la lista y detectar al que tiene el nombre más corto
             for(var i = 0; i<lista.Count; i++)

@@ -52,6 +52,29 @@ namespace Array_Irregular
                 }
             }
 
+            int[][] arrayIrregular = new int[][]
+            {
+                new int[] { 0, 2, 4},
+                new int[] { 1, 3, 5, 7, 9},
+                new int[] { 6, 8, 10},
+                new int[] { 20, 30, 40, 50}
+            };
+
+
+
+            for (int i = 2; i == 2; i++)
+            {
+                Console.WriteLine("Los valores del array {0} son: ", i);
+
+                for (int j = 0; j < arrayIrregular[i].Length; j++)
+                {
+                    
+                        Console.WriteLine("{0}", arrayIrregular[i][j]);
+           
+                    
+                }
+            }
+
             Console.Read();
         }
     }

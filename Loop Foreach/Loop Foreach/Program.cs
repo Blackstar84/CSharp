@@ -17,10 +17,10 @@ namespace Loop_Foreach
                 nums[i] = i;
             }
 
-            //for (int j = 0;j < nums.Length;j++)
-            //{
-            //    Console.WriteLine("El valor del índice {0} es {1}", j, nums[j]);
-            //}
+           /* for (int j = 0;j < nums.Length;j++)
+            {
+                Console.WriteLine("El valor del índice {0} es {1}", j, nums[j]);
+            }*/
 
             foreach (int k in nums)
             {

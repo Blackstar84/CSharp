@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\calmada\\Documents\\Curso C\\If Anidados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE4FF6A9-A2B8-48C6-97F4-1A5012B2174C}|If Anidados\\If Anidados.csproj|c:\\users\\calmada\\documents\\curso c\\if anidados\\if anidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE4FF6A9-A2B8-48C6-97F4-1A5012B2174C}|If Anidados\\If Anidados.csproj|solutionrelative:if anidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\calmada\\Documents\\Curso C\\If Anidados\\If Anidados\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:If Anidados\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "If Anidados\\Program.cs",
               "ToolTip": "C:\\Users\\calmada\\Documents\\Curso C\\If Anidados\\If Anidados\\Program.cs",
               "RelativeToolTip": "If Anidados\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T17:52:26.136Z",
               "EditorCaption": ""

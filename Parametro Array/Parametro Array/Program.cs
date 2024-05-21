@@ -45,6 +45,10 @@ namespace Parametro_Array
             {
                 suma += arrayDePuntajes[i];
             }
+            //foreach (var item in arrayDePuntajes)
+            //{
+            //    suma += item;
+            //}
 
             promedio = (double) suma / cantidad;
 

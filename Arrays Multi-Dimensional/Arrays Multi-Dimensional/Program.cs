@@ -29,7 +29,7 @@ namespace Arrays_Multi_Dimensional
                 {
                     { "A", "B", "C"},
                     { "D", "E", "F"},
-                    { "E", "H", "I"}
+                    { "G", "H", "I"}
                 },
                 {
                     {"J", "K", "L" },
@@ -57,7 +57,7 @@ namespace Arrays_Multi_Dimensional
             Console.WriteLine("El valor central es {0}", array2D[1,1]);
             Console.WriteLine("Imprimir la letra G {0}", array2D[2,0]);
 
-            Console.WriteLine("El valor A es {0}", array3D[0,0,0]);
+            Console.WriteLine("El valor A es {0}", array3D[0, 0, 0]);
             Console.WriteLine("El valor E es {0}", array3D[0, 1, 1]);
             Console.WriteLine("El valor V es {0}", array3D[2, 1, 0]);
 
